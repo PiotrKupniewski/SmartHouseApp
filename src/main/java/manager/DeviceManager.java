@@ -9,7 +9,7 @@ import output.TvDevice;
 import java.util.List;
 import java.util.stream.Collectors;
 
-public class DeviceManager {
+public class DeviceManager{
     private final DeviceFactory factory = new DeviceFactory();
     private final List<Device> devices = List.of(
             factory.createDevice("BossPrinter"),

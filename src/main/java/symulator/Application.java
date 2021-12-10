@@ -28,6 +28,4 @@ public class Application {
         startProgram(device);
     }
 }
-// kolejny use case
-// wskazać plik do wydrukowania i zmienić kanał w telewizoze
 
